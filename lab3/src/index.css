@@ -1,0 +1,11 @@
+table, th, td {
+   border: 2px solid gray;
+}
+
+table {
+   border-collapse: collapse;
+}
+
+#title {
+   min-width: 200px
+}
